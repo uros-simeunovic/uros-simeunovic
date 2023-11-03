@@ -1,6 +1,5 @@
 # Hello 👋
 
-# 💫 About Me:
 My name is Uros, I am Front-end Developer who works with JavaScript technologies. My goal is to master everything related to Web Development. I am also passionate about learning new technologies which I can leverage to solve real-life problems.
 
 
